@@ -1,0 +1,5 @@
+.hero { background: linear-gradient(135deg, #667eea, #764ba2); color: white; text-align: center; padding: 100px 20px; }
+.cta-button { background: #ff6b6b; color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: 600; }
+.contact { padding: 80px 20px; text-align: center; }
+.contact form { max-width: 400px; margin: 0 auto; display: flex; flex-direction: column; gap: 15px; }
+.contact input { padding: 15px; border-radius: 10px; border: 1px solid #ddd; }
