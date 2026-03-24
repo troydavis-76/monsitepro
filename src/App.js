@@ -13,7 +13,7 @@ function App() {
       </section>
       <section className="contact">
         <h2>Devis gratuit</h2>
-        <form action="https://formsubmit.co/ton-email@gmail.com" method="POST">
+        <form action="https://formsubmit.co/abdoulsalam.sow@outlook.fr" method="POST">
           <input type="text" name="nom" placeholder="Commerce" />
           <input type="tel" name="tel" placeholder="06 XX XX XX XX" />
           <button type="submit" className="cta-button">Je veux !</button>
