@@ -21,7 +21,7 @@ function App() {
       <section id="contact" className="formulaire">
         <div className="container">
           <h2>Quel commerce voulez-vous booster ?</h2>
-          <form action="https://formsubmit.co/ton-email@gmail.com" method="POST">
+          <form action="https://formsubmit.co/abdoulsalam.sow@outlook.fr" method="POST">
             <input type="text" name="nom" placeholder="Nom de votre commerce" required />
             <input type="tel" name="telephone" placeholder="06 XX XX XX XX" required />
             
